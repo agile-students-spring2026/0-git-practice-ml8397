@@ -14,6 +14,6 @@ You can feel the author's humor and personality through his words, as if you wer
 friend. He narrows the macro-problem of a depressed market into small details and
 stories. I enjoyed the article overall.
 
-
 ## Comment - Jack Chen
+
 I liked this article because it talks about programming in a very honest way. It shows that coding is not always clean or logical, and that a lot of the work is dealing with confusion, broken systems, and unexpected problems. Even though the article is funny and exaggerated, it made me realize that frustration is a normal part of software engineering. It helped me understand that being a programmer is not just about writing code, but also about being patient and flexible when things go wrong.
