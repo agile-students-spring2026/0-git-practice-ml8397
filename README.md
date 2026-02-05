@@ -12,7 +12,7 @@ It is a funny piece to read while providing a sharp point of view on the softwar
 engineering industry at the same time. The article has a strong individualistic voice.
 You can feel the author's humor and personality through his words, as if you were his
 friend. He narrows the macro-problem of a depressed market into small details and
-stories. I enjoyed the article overall.
+stories. I enjoyed the article overall!
 
 ## Comment - Jack Chen
 
